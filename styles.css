@@ -1,1 +1,22 @@
 /* your code here */
+section{
+	height:500px;
+	width:670px;
+	background-color:#32cd32;
+	position:relative;
+}
+.product__info{
+	height:400px;
+	width:440px;
+	background-color:white;
+	position:absolute;
+	top:50px;
+	left:110px;
+}
+.product__container{
+	height:360px;
+	width:200px;
+	background-color:lime;
+	position:absolute;
+	
+}
